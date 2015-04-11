@@ -1,5 +1,4 @@
 alias e="emacsclient -n"
-alias z="emacsclient -n ~/.zshrc"
 alias et="emacsclient -t"
 
 alias c="pygmentize -O style=monokai -f console256 -g"
